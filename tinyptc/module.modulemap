@@ -1,4 +1,0 @@
-module tinyptc  {
-    header "tinyptc.h"
-    export *
-}

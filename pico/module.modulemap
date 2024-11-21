@@ -1,4 +1,0 @@
-module pico {
-    header "picopng.hpp"
-    export *
-}
